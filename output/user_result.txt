@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-23 02:27:56,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+2026-11-26 04:28:27,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 
 📺央视频道,#genre#
 
@@ -7,13 +7,15 @@
 
 📡卫视频道,#genre#
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 
 ☘️广东频道,#genre#
-大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
 大湾区卫视,https://iptv.catvod.com/migu?id=608917627&token=2477dac80c097bf350e309b8ab91c348
+大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
 大湾区卫视,https://iptv.catvod.com/migu?id=608917627&token=36b5ea90022856e71c04ae3e43d1c5c1
+广州综合,https://168.sryze.cc/163189/gzzh
+广州综合,https://168.sryze.cc/163189/gzxw
 
 ☘️浙江频道,#genre#
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
@@ -23,16 +25,16 @@
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 浙江留学,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n
+浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
+龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
@@ -51,11 +53,11 @@
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 涟水电视台综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 镇江新闻综合,https://iptv.catvod.com/migu?id=639731783&token=94f0904ff601d8a03f1ced20cda7e10b
-镇江新闻综合,https://iptv.catvod.com/migu?id=639731783&token=4d14078edd2015eded3a7a24566367ec
+镇江新闻综合,https://iptv.catvod.com/migu?id=639731783&token=addf5aeb332aa47a51ccb7762363e457
 镇江新闻综合,https://iptv.catvod.com/migu?id=639731783&token=8c044ca417cd387b302dacb6bbe8a928
 
 ☘️湖南频道,#genre#
-湖南爱晚,http://php.jdshipin.com:8880/iptv.php
+湖南电影,http://php.jdshipin.com:8880/iptv.php
 长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8
 
 ☘️湖北频道,#genre#
@@ -98,16 +100,17 @@
 辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
 
 ☘️山东频道,#genre#
+山东教育,https://iptv.catvod.com/migu?id=609154353&token=2a1f59a6cd71f9a99430b9aefa832200
 山东教育,https://iptv.catvod.com/migu?id=609154353&token=d1150c9f63f8d1accdabeccb87088cb0
 山东教育,https://iptv.catvod.com/migu?id=609154353&token=4e0f100378b25c7df79cbde0696ad38f
-山东教育,https://iptv.catvod.com/migu?id=609154353&token=2a1f59a6cd71f9a99430b9aefa832200
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 
 🌊港·澳·台,#genre#
+明珠台,https://live.catvod.com/live.php?id=mztsub
 明珠台,https://live.catvod.com/iptv.php?id=mztsub&token=97186551e94876c474032c5839b9f10f053952895818593991584ef02646f43e%3A1766107501%3AMTI4LjI0LjE2MS4xNzY%3D
-明珠台,https://live.catvod.com/iptv.php?id=mztsub&token=bf929753d31b92c091028cb712c69cea561298bea2507869c6d90fc889a55b87%3A1766193519%3ANjguMTU0LjExNy4zNQ%3D%3D
-明珠台,https://live.catvod.com/iptv.php?id=mztsub&token=dd877ec5a2309d529be7aaa1492c475ea82d6958d2dba778de85b58f92300935%3A1765243433%3AMTcyLjIxNS4yMTAuNTI%3D
+明珠台,https://live.catvod.com/iptv.php?id=mztsub&token=a6c53485f12c448a4a980f323f4353bfd997eb7cc353a92582894fdf218474f1%3A1766280998%3AMjAuNTEuMjA2Ljgx
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://cc.123.rr.kg/163189/fhzx
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 
@@ -117,47 +120,51 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
+天映经典,https://cdn.qd.je/163189.php?id=ccm
+天映经典,https://cdn.qd.je/163189/ccm2
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 睛彩广场舞,https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
-快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=152f2c16f43320a3372a46ca319af6f3
 快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=4142bcce4a2c9120052c7564ee3d1775
-快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=9e2e5a588337b443c455b6b3b1f67e84
+快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=b2e76165ab71c9f7ac53e901feafec48
+快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=17fbb4a8015165698915fd3efbf70d41
 
 🪁动画频道,#genre#
-新动漫,https://iptv.catvod.com/migu?id=961930269&token=38a659ad0947ea63cd0cb7e47c0f455b
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=2972385370d8622174482e12bd926b86
-新动漫,https://iptv.catvod.com/migu?id=961930269&token=ac3d766cc20b8ba0e73fed57a9064232
+新动漫,https://iptv.catvod.com/migu?id=961930269&token=f47a53e10f814dac8bd1d73881ee920e
+新动漫,https://iptv.catvod.com/migu?id=961930269&token=38a659ad0947ea63cd0cb7e47c0f455b
 七龙珠,https://live.metshop.top/huya/11601966
 七龙珠,https://live.ottiptv.cc/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-音乐广播,https://tv.iill.top/fm/552&token=0eba18228bcfc480a3ebe888c08e90dbddb1b0b70d49fbe7c808ea9486e8f216
-音乐广播,https://tv.iill.top/fm/552&token=14f77f9b350d5f5edf4d9190a7def80aa5fe98759ea8966cd75fa2657c24357b
 
 🏛经典剧场,#genre#
 笑傲江湖,https://live.ottiptv.cc/huya/23865142
 天龙八部,https://live.metshop.top/huya/23903123
+天龙八部,https://live.metshop.top/yy/1351814644
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
+鹿鼎记,https://live.metshop.top/huya/23650774
+仙剑奇侠传,https://live.metshop.top/yy/1382749903
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 三国演义,https://live.metshop.top/huya/11602081
 三国演义,https://live.ottiptv.cc/huya/11602081
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
-封神榜,https://live.ottiptv.cc/huya/29465849
+新白娘子传奇,https://live.metshop.top/yy/1354490667
 封神榜,http://live.ottiptv.cc/huya/29465849
-射雕英雄传,https://live.metshop.top/huya/23824164
+封神榜,https://live.ottiptv.cc/huya/29465849
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
+射雕英雄传,https://live.metshop.top/huya/23824164
